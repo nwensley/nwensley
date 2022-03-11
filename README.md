@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nwensley
-- 👀 I’m interested in computer networking, in particular the Internet!
+- 👀 I’m interested in computer networking, especially the Internet!
 - 🌱 I’m currently learning Python and network programmability.
 - 💞️ I’m looking to collaborate on world peace.
 - 📫 Reach me via the contact page at https://wensley.com
